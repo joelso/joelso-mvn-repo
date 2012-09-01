@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>org.joelso</groupId>
-  <artifactId>spring-flash</artifactId>
+  <groupId>org.trello4j</groupId>
+  <artifactId>trello4j</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20110505.062333</timestamp>
-      <buildNumber>5</buildNumber>
+      <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20110505062333</lastUpdated>
+    <lastUpdated>20120901230601</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20110505.062333-5</value>
-        <updated>20110505062333</updated>
+        <value>1.0-SNAPSHOT</value>
+        <updated>20120901230601</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20110505.062333-5</value>
-        <updated>20110505062333</updated>
+        <value>1.0-SNAPSHOT</value>
+        <updated>20120901230601</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
